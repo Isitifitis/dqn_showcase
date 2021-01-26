@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this project, we train an agent to navigate (and collect bananas!) in a large, square world. We train the agent using the DQN algorithm, which is described in the [report]().
+In this project, we train an agent to navigate (and collect bananas!) in a large, square world. We train the agent using the DQN algorithm, which is described in the [report](Report.md).
 
 ![Trained Agent][image1]
 
@@ -43,7 +43,7 @@ Four discrete actions are available, corresponding to:
 
 2. Place the file in this project's root, and unzip (or decompress) the file.
 
-3. Install the needed python packages (Best to create a [virtual environment]() to contain them first!)
+3. Install the needed python packages (Best to create a [virtual environment](https://virtualenv.pypa.io/en/latest/) to contain them first!)
 
 ```
 pip install -r requirements.txt
